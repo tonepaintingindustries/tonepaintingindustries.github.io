@@ -2,20 +2,15 @@
 layout: page
 title: About
 ---
+# About
 
-## Ultra - Super fast Jekyll theme 
 
-Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
+My name is Zack.
 
-### Key features
+I am a former-nomad, musician, and engineer exploring smooth space through virtual synthesis.
 
-- seo optimized
-- weighs under 2kb
-- portfolio/blog pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
+I have over a decade of experience in music production and sound design. At this time, I am focused on developing instruments and tools for exploring new concepts in music and electronic performance.
+
+Aside from music, I also enjoy literature and philosophy. I've presented and sat on panels at the [University of St Francis Writers' Conference](https://www.stfrancis.edu/sfwc/) on a few occasions. I also have experience in graphic design, video production, and [programming lighting for live performance.](https://www.youtube.com/watch?v=veyInHEq7WU)
+
+Currently, I am based in Chicago.
