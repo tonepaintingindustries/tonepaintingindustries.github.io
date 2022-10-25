@@ -6,8 +6,6 @@ summary: Videos produced for the Tonepainting YouTube channel.
 category: Portfolio
 ---
 
-# Tonepainting Videos
-
 Tonepainting is my personal music project. The music in these videos is arranged, mixed, and mastered by myself. The video component is filmed and edited by myself as well.
 
 
