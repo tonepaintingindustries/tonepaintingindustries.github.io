@@ -2,7 +2,7 @@
 layout: page
 title: Photos
 ---
-# [Daylongsigh](instagram.com/daylongsigh_/) 
+## [Daylongsigh](instagram.com/daylongsigh_/) 
 at Bookclub, Chicago, Ill. Feb 27, 2023.
 
 ![](/assets/images/daylong%on%floor%2.jpg)
@@ -12,17 +12,17 @@ at Bookclub, Chicago, Ill. Feb 27, 2023.
 ![](/assets/images/dls%bookclub%14.jpg)
 ![](/assets/images/dls%bookclub.jpg)
 
-# [Happy To Be Here](instagram.com/happytobeherechi/)
+## [Happy To Be Here](instagram.com/happytobeherechi/)
 at Cole's Bar, Chicago, Ill. Feb 24, 2023.
 
 ![](/assets/images/HTBH%new%carousel.jpg)
 
-# [Happy To Be Here](instagram.com/happytobeherechi/)
+## [Happy To Be Here](instagram.com/happytobeherechi/)
 at Cole's Bar, Chicago, Ill. Feb 16, 2023.
 
 ![](/assets/images/HTBH%insta%carousel.jpg)
 
-# [Daylongsigh](instagram.com/daylongsigh_/) 
+## [Daylongsigh](instagram.com/daylongsigh_/) 
 at Subterranean, Chicago, Ill. Jan 21, 2023.
 
 ![](/assets/images/DLS%insta%carousel.jpg)
