@@ -5,7 +5,7 @@ title: Photos
 ## [Daylongsigh](instagram.com/daylongsigh_/) 
 at Bookclub, Chicago, Ill. Feb 27, 2023.
 
-![](/assets/images/daylong%on%floor%2.jpg)
+![](https://github.com/tonepaintingindustries/tonepaintingindustries.github.io/blob/e19876b0e3b506efdc83b190f2a2301756e0505d/assets/images/daylong%20on%20floor%202.jpg)
 ![](/assets/images/dls%bookclub%4.jpg)
 ![](/assets/images/dls%bookclub%10.jpg)
 ![](/assets/images/dls%bookclub%13.jpg)
